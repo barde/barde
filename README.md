@@ -1,1 +1,2 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Tapestry_with_the_Arms_of_Micha%C5%82_Kazimierz_Pac.png" width="100%">
+<a title="Royal Castle
+, CC BY 3.0 &lt;https://creativecommons.org/licenses/by/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Tapestry_with_the_Arms_of_Micha%C5%82_Kazimierz_Pac.png"><img width="256" alt="Tapestry with the Arms of Michał Kazimierz Pac" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Tapestry_with_the_Arms_of_Micha%C5%82_Kazimierz_Pac.png/256px-Tapestry_with_the_Arms_of_Micha%C5%82_Kazimierz_Pac.png"></a>
