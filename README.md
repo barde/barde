@@ -12,7 +12,9 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=barde&theme=tokyonight&background=1a1b27&ring=a9fef7&fire=a9fef7&currStreakLabel=a9fef7&hide_border=true)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=barde&show_icons=true&theme=merko&bg_color=1a1b27&title_color=a9fef7&text_color=f8f8f2&icon_color=a9fef7&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=barde&show_icons=true&theme=transparent&bg_color=1a1b27&title_color=a9fef7&text_color=f8f8f2&icon_color=a9fef7&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barde&theme=transparent&bg_color=1a1b27&title_color=a9fef7&text_color=f8f8f2&hide_border=true&layout=compact&langs_count=8)
 
 </td>
 <td valign="top" width="50%">
@@ -32,6 +34,7 @@
 Building systems with the precision of a spacecraft engineer and the imagination of a golden-age sci-fi author. Currently navigating between embedded systems, cloud architectures, and desktop applications.
 
 #### 🚀 Current Explorations
+- Embracing the AI-assisted coding revolution with Claude, Copilot, and emerging LLMs
 - Engineering MVVM desktop applications with mathematical elegance
 - Orchestrating IoT networks across Azure's vast computational clouds
 - Crafting web experiences that transcend the mundane
@@ -70,7 +73,14 @@ Building systems with the precision of a spacecraft engineer and the imagination
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+#### AI-Assisted Development
+![Claude](https://img.shields.io/badge/-Claude-FF6B6B?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-5E5CE6?style=for-the-badge&logo=cursor&logoColor=white)
+
 ### 🎯 Operating Parameters
+- 🤖 Extensive practitioner of AI-pair programming across multiple LLM platforms
 - 🛸 Coding in the spirit of retro-futuristic system architects
 - 🦅 Devoted ornithologist who finds debugging akin to birdwatching
 - 📡 Embedded systems whisperer with a penchant for ESP32 & ARM
