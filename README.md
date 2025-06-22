@@ -54,7 +54,7 @@ Building systems with the precision of a spacecraft engineer and the imagination
 ![YAML](https://img.shields.io/badge/-YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
 #### Cloud & Infrastructure
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=msazure&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Bicep](https://img.shields.io/badge/-Bicep-0080FF?style=for-the-badge&logo=azure-pipelines&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -75,7 +75,7 @@ Building systems with the precision of a spacecraft engineer and the imagination
 ![Vim](https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=vsc&logoColor=white)
 
 #### AI-Assisted Development
 ![Claude Code](https://img.shields.io/badge/-Claude_Code-FF6B6B?style=for-the-badge&logo=anthropic&logoColor=white)
