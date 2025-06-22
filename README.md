@@ -8,13 +8,13 @@
 
 ### 📈 Activity Patterns
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=barde&theme=tokyo-night&bg_color=1a1b27&color=a9fef7&line=a9fef7&point=a9fef7&area_color=1a1b27&area=true&hide_border=true&custom_title=Contribution%20Waves)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=barde&theme=github-light&bg_color=00000000&color=24292e&line=0366d6&point=24292e&area_color=e1e4e8&area=true&hide_border=true&custom_title=Contribution%20Waves)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=barde&theme=tokyonight&background=1a1b27&ring=a9fef7&fire=a9fef7&currStreakLabel=a9fef7&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=barde&theme=default&background=00000000&ring=0366d6&fire=fb8532&currStreakLabel=24292e&hide_border=true)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=barde&show_icons=true&theme=transparent&bg_color=1a1b27&title_color=a9fef7&text_color=f8f8f2&icon_color=a9fef7&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=barde&show_icons=true&theme=default&bg_color=00000000&title_color=24292e&text_color=24292e&icon_color=0366d6&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barde&theme=transparent&bg_color=1a1b27&title_color=a9fef7&text_color=f8f8f2&hide_border=true&layout=compact&langs_count=10&hide=html,css)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barde&theme=default&bg_color=00000000&title_color=24292e&text_color=24292e&hide_border=true&layout=compact&langs_count=10&hide=html,css)
 
 </td>
 <td valign="top" width="50%">
