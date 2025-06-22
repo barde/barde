@@ -56,7 +56,7 @@ Building systems with the precision of a spacecraft engineer and the imagination
 #### Cloud & Infrastructure
 ![Azure](https://img.shields.io/badge/-Azure-0089D0?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Bicep](https://img.shields.io/badge/-Bicep-0080FF?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 #### Web Technologies
