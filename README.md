@@ -4,6 +4,16 @@
 
 <img src="vibing.webp" alt="vibing" width="100%">
 
+<br><br>
+
+### 📈 Activity Patterns
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=barde&theme=tokyo-night&bg_color=1a1b27&color=a9fef7&line=a9fef7&point=a9fef7&area_color=1a1b27&area=true&hide_border=true&custom_title=Contribution%20Waves)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=barde&theme=tokyonight&background=1a1b27&ring=a9fef7&fire=a9fef7&currStreakLabel=a9fef7&hide_border=true)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=barde&show_icons=true&theme=merko&bg_color=1a1b27&title_color=a9fef7&text_color=f8f8f2&icon_color=a9fef7&hide_border=true)
+
 </td>
 <td valign="top" width="50%">
 
@@ -26,10 +36,6 @@ Building systems with the precision of a spacecraft engineer and the imagination
 - Orchestrating IoT networks across Azure's vast computational clouds
 - Crafting web experiences that transcend the mundane
 - Programming embedded systems for the cybernetic age
-
-### 📊 GitHub Statistics
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=barde&show_icons=true&theme=merko&bg_color=1a1b27&title_color=a9fef7&text_color=f8f8f2&icon_color=a9fef7)
 
 ### 🛠️ Technological Arsenal
 
