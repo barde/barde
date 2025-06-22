@@ -14,7 +14,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=barde&show_icons=true&theme=transparent&bg_color=1a1b27&title_color=a9fef7&text_color=f8f8f2&icon_color=a9fef7&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barde&theme=transparent&bg_color=1a1b27&title_color=a9fef7&text_color=f8f8f2&hide_border=true&layout=compact&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barde&theme=transparent&bg_color=1a1b27&title_color=a9fef7&text_color=f8f8f2&hide_border=true&layout=compact&langs_count=10&hide=html,css)
 
 </td>
 <td valign="top" width="50%">
@@ -38,7 +38,7 @@ Building systems with the precision of a spacecraft engineer and the imagination
 
 #### 🚀 Current Explorations
 - 🤖 Embracing the AI-assisted coding revolution with Claude, Copilot, and emerging LLMs
-- 🏗️ Engineering MVVM desktop applications with mathematical elegance
+- 🏗️ Orchestrating cloud deployments as an Infrastructure as Code fanatic
 - ☁️ Orchestrating IoT networks across Azure's vast computational clouds
 - 🌐 Crafting web experiences that transcend the mundane
 - 🔧 Programming embedded systems for the cybernetic age
@@ -51,12 +51,13 @@ Building systems with the precision of a spacecraft engineer and the imagination
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![YAML](https://img.shields.io/badge/-YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
-#### Desktop & Cloud Systems
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+#### Cloud & Infrastructure
 ![Azure](https://img.shields.io/badge/-Azure-0089D0?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![MVVM](https://img.shields.io/badge/-MVVM_Pattern-7F52FF?style=for-the-badge&logo=xamarin&logoColor=white)
-![WPF](https://img.shields.io/badge/-WPF-0C54C2?style=for-the-badge&logo=windows&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 #### Web Technologies
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
