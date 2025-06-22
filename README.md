@@ -51,7 +51,6 @@ Building systems with the precision of a spacecraft engineer and the imagination
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![YAML](https://img.shields.io/badge/-YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
 #### Cloud & Infrastructure
 ![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=msazure&logoColor=white)
