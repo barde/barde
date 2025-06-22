@@ -56,7 +56,7 @@ Building systems with the precision of a spacecraft engineer and the imagination
 #### Cloud & Infrastructure
 ![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=msazure&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Bicep](https://img.shields.io/badge/-Bicep-0080FF?style=for-the-badge&logo=azure-pipelines&logoColor=white)
+![Bicep](https://img.shields.io/badge/-Bicep-0080FF?style=for-the-badge&logo=azure-artifacts&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
