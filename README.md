@@ -39,7 +39,7 @@ Building systems with the precision of a spacecraft engineer and the imagination
 #### 🚀 Current Explorations
 - 🤖 Embracing the AI-assisted coding revolution with Claude, Copilot, and emerging LLMs
 - 🏗️ Orchestrating cloud deployments as an Infrastructure as Code fanatic
-- ☁️ Orchestrating IoT networks across vast clouds and networked machine rooms
+- ☁️ Architecting distributed systems across cloud infrastructure and edge computing realms
 - 🌐 Crafting web experiences that transcend the mundane
 - 🔧 Programming embedded systems for the cybernetic age
 
