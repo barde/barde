@@ -19,26 +19,29 @@
 </td>
 <td valign="top" width="50%">
 
-## 🎩 VIBING
+<div align="center">
 
 ```
- __     _____ ____ ___ _   _  ____ 
- \ \   / /_ _| __ )_ _| \ | |/ ___|
-  \ \ / / | ||  _ \| ||  \| | |  _ 
-   \ V /  | || |_) | || |\  | |_| |
-    \_/  |___|____/___|_| \_|\____|
+██╗   ██╗██╗██████╗ ██╗███╗   ██╗ ██████╗ 
+██║   ██║██║██╔══██╗██║████╗  ██║██╔════╝ 
+██║   ██║██║██████╔╝██║██╔██╗ ██║██║  ███╗
+╚██╗ ██╔╝██║██╔══██╗██║██║╚██╗██║██║   ██║
+ ╚████╔╝ ██║██████╔╝██║██║ ╚████║╚██████╔╝
+  ╚═══╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝ 
 ```
 
-### *Digital architect from the retro-futuristic timeline*
+</div>
+
+### 🎩 *Digital architect from the retro-futuristic timeline*
 
 Building systems with the precision of a spacecraft engineer and the imagination of a golden-age sci-fi author. Currently navigating between embedded systems, cloud architectures, and desktop applications.
 
 #### 🚀 Current Explorations
-- Embracing the AI-assisted coding revolution with Claude, Copilot, and emerging LLMs
-- Engineering MVVM desktop applications with mathematical elegance
-- Orchestrating IoT networks across Azure's vast computational clouds
-- Crafting web experiences that transcend the mundane
-- Programming embedded systems for the cybernetic age
+- 🤖 Embracing the AI-assisted coding revolution with Claude, Copilot, and emerging LLMs
+- 🏗️ Engineering MVVM desktop applications with mathematical elegance
+- ☁️ Orchestrating IoT networks across Azure's vast computational clouds
+- 🌐 Crafting web experiences that transcend the mundane
+- 🔧 Programming embedded systems for the cybernetic age
 
 ### 🛠️ Technological Arsenal
 
@@ -52,7 +55,7 @@ Building systems with the precision of a spacecraft engineer and the imagination
 #### Desktop & Cloud Systems
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0089D0?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![MVVM](https://img.shields.io/badge/-MVVM-7F52FF?style=for-the-badge&logo=xamarin&logoColor=white)
+![MVVM](https://img.shields.io/badge/-MVVM_Pattern-7F52FF?style=for-the-badge&logo=xamarin&logoColor=white)
 ![WPF](https://img.shields.io/badge/-WPF-0C54C2?style=for-the-badge&logo=windows&logoColor=white)
 
 #### Web Technologies
@@ -74,10 +77,8 @@ Building systems with the precision of a spacecraft engineer and the imagination
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 #### AI-Assisted Development
-![Claude](https://img.shields.io/badge/-Claude-FF6B6B?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude_Code-FF6B6B?style=for-the-badge&logo=anthropic&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Cursor](https://img.shields.io/badge/-Cursor-5E5CE6?style=for-the-badge&logo=cursor&logoColor=white)
 
 ### 🎯 Operating Parameters
 - 🤖 Extensive practitioner of AI-pair programming across multiple LLM platforms
