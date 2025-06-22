@@ -39,7 +39,7 @@ Building systems with the precision of a spacecraft engineer and the imagination
 #### 🚀 Current Explorations
 - 🤖 Embracing the AI-assisted coding revolution with Claude, Copilot, and emerging LLMs
 - 🏗️ Orchestrating cloud deployments as an Infrastructure as Code fanatic
-- ☁️ Orchestrating IoT networks across Azure's vast computational clouds [![Azure](https://img.shields.io/badge/-Azure-0089D0?style=flat&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
+- ☁️ Orchestrating IoT networks across vast clouds and networked machine rooms
 - 🌐 Crafting web experiences that transcend the mundane
 - 🔧 Programming embedded systems for the cybernetic age
 
@@ -54,7 +54,7 @@ Building systems with the precision of a spacecraft engineer and the imagination
 ![YAML](https://img.shields.io/badge/-YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
 #### Cloud & Infrastructure
-![Azure](https://img.shields.io/badge/-Azure-0089D0?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Bicep](https://img.shields.io/badge/-Bicep-0080FF?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -75,7 +75,7 @@ Building systems with the precision of a spacecraft engineer and the imagination
 ![Vim](https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 #### AI-Assisted Development
 ![Claude Code](https://img.shields.io/badge/-Claude_Code-FF6B6B?style=for-the-badge&logo=anthropic&logoColor=white)
