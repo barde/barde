@@ -39,7 +39,7 @@ Building systems with the precision of a spacecraft engineer and the imagination
 #### 🚀 Current Explorations
 - 🤖 Embracing the AI-assisted coding revolution with Claude, Copilot, and emerging LLMs
 - 🏗️ Orchestrating cloud deployments as an Infrastructure as Code fanatic
-- ☁️ Orchestrating IoT networks across Azure's vast computational clouds
+- ☁️ Orchestrating IoT networks across Azure's vast computational clouds [![Azure](https://img.shields.io/badge/-Azure-0089D0?style=flat&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
 - 🌐 Crafting web experiences that transcend the mundane
 - 🔧 Programming embedded systems for the cybernetic age
 
