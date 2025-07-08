@@ -76,7 +76,7 @@ Building systems with the precision of a spacecraft engineer and the imagination
 
 #### AI-Assisted Development
 ![Claude Code](https://img.shields.io/badge/-Claude_Code-FF6B6B?style=for-the-badge&logo=anthropic&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![Gemini CLI](https://img.shields.io/badge/-Gemini_CLI-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 
 ### 🎯 Operating Parameters
 - 🤖 Extensive practitioner of AI-pair programming across multiple LLM platforms
