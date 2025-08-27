@@ -2,7 +2,9 @@
 <tr>
 <td valign="top" width="50%">
 
-<img src="vibing.webp" alt="vibing" width="100%">
+<picture>
+  <img src="red_b.jpg" alt="profile" width="100%" onmouseover="this.src='vibing.webp'" onmouseout="this.src='red_b.jpg'">
+</picture>
 
 <br><br>
 
