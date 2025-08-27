@@ -2,7 +2,7 @@
 <tr>
 <td valign="top" width="50%">
 
-<img src="red_b.jpg" alt="profile" width="100%">
+<a href="vibing.webp"><img src="dynamisch.jpg" alt="profile" width="100%"></a>
 
 <br><br>
 
