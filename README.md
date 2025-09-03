@@ -34,7 +34,7 @@
 
 ### 🎩 *Digital architect from the retro-futuristic timeline*
 
-Building systems with the precision of a spacecraft engineer and the imagination of a golden-age sci-fi author. Currently navigating between embedded systems, cloud architectures, and desktop applications.
+Building systems with the precision of a spacecraft engineer and the imagination of a golden-age sci-fi author. Currently navigating between AI, IoT, ephemeral compute hosting and all things data.
 
 #### 🚀 Current Explorations
 - 🤖 Embracing the AI-assisted coding revolution with Claude, Copilot, and emerging LLMs
@@ -42,6 +42,7 @@ Building systems with the precision of a spacecraft engineer and the imagination
 - ☁️ Architecting distributed systems across cloud infrastructure and edge computing realms
 - 🌐 Crafting web experiences that transcend the mundane
 - 🔧 Programming embedded systems for the cybernetic age
+- 🦢 Loving life like a swan
 
 ### 🛠️ Technological Arsenal
 
@@ -76,7 +77,6 @@ Building systems with the precision of a spacecraft engineer and the imagination
 
 #### AI-Assisted Development
 ![Claude Code](https://img.shields.io/badge/-Claude_Code-FF6B6B?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini CLI](https://img.shields.io/badge/-Gemini_CLI-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 
 ### 🎯 Operating Parameters
 - 🤖 Extensive practitioner of AI-pair programming across multiple LLM platforms
@@ -92,6 +92,6 @@ Building systems with the precision of a spacecraft engineer and the imagination
 <div align="center">
 
 ---
-<sub>Composed with vim and an abundance of refinement 🎩</sub>
+<sub>Composed with vim and a probably unhealthy amount of refinement 🎩</sub>
 
 </div>
